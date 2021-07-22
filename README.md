@@ -7,3 +7,4 @@ for (i = 0; i < mbti.length; i +=1){
 //(3,2)
 //(0,1)
 //What I have to modify the JS code?
+//Thank you for your reply.
